@@ -327,6 +327,7 @@ public class Prospector : MonoBehaviour {
 
 	void ReloadLevel() {
 		// Reload the scene, resetting the game
+
 		Application.LoadLevel("__Prospector_Scene_0");
 	}
 

@@ -1,4 +1,8 @@
 <xml>
+	<!-- This file holds info for laying out the Bartok card game. -->
+	
+	<!-- The multiplier is multiplied by the x and y attributes below. -->
+<xml>
 	<!-- This file holds info for laying out the Prospector card game. -->
 	
 	<!-- The multiplier is multiplied by the x and y attributes below. -->
@@ -56,4 +60,3 @@
 	<slot type="discardpile" x="0" y="1" layer="5"/>
 	
 </xml>
-	
